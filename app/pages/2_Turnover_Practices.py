@@ -8,7 +8,7 @@ from data_processing import likert_data, scatter_comparison_data
 st.set_page_config(
     page_title="Fleet turnover practices")
 
-data = pd.read_csv("data_full_app.csv")
+data = pd.read_csv("app/data_full_app.csv")
 
 COLORS_LIKERT_3 = ["#ef8a62","#c7c7c7", "#67a9cf"]
 COLORS_LIKERT_4 = ["#ef8a62","#c7c7c7", "#92c5de", "#0571b0"]

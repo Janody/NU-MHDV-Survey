@@ -26,7 +26,7 @@ st.markdown("For the most promising innovations, **A.I.** is the most mentioned 
 st.markdown("*Click on any cell to zoom in.*")
 
 
-innov_df = pd.read_csv("innovation_best_worst.csv")
+innov_df = pd.read_csv("app/innovation_best_worst.csv")
 innov_df = innov_df.melt(id_vars = ['Category', 'Innovation'], value_vars = ['FM', 'OO', 'Other'], var_name = 'source', value_name = 'proportion')
 innov_df['source'] = innov_df['source'].map({'FM': 'Fleet managers', 'OO': 'Owner-Operators', 'Other': 'Other'})
 
@@ -44,7 +44,7 @@ st.markdown("This table displays all comments made by respondents, categorized i
 
 st.markdown("Several similarities emerge across fleet managers, owner-operators, and others in how they responded. **Costs** and the true **total cost of ownership** were emphasized by all three groups, with respondents in each noting that organizations tend to focus on upfront expenses while overlooking long-term factors such as maintenance, downtime, depreciation, and residual value. Similarly, **regulatory issues** were raised in every group, particularly around emissions standards, compliance burdens, and inconsistent rules across jurisdictions. Finally, **emerging technologies** (such as EVs, AI, and automation) appeared as a cross-cutting theme, though the tone ranged from optimism to skepticism depending on the respondent.")
 
-data = pd.read_csv('text_df.csv', encoding = 'utf-8-sig')
+data = pd.read_csv('app/text_df.csv', encoding = 'utf-8-sig')
 data = data[~data.category1.isna()]
 
 button_source = st.pills("Filter by group", ['Fleet managers', 'Owner-Operators', 'Other'],  selection_mode="multi", default=None, key="button_source2")

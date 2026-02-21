@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 st.set_page_config(
     page_title="Respondent profile, company and fleet overview")
 
-data = pd.read_csv("data_full_app.csv")
+data = pd.read_csv("app/data_full_app.csv")
 
 st.header("Respondent profile, company and fleet overview")
 st.markdown("""*Table of contents:*
