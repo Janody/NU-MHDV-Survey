@@ -8,7 +8,8 @@ st.set_page_config(
     page_title="Fleet manager and Owner-Operators survey -- Results",
 )
 
-st.logo("Northwestern_purple_RGB.png", )
+st.logo("app/Northwestern_purple_RGB.png")
+
 """
 # Fleet managers and owner-operators survey 
 
@@ -31,7 +32,7 @@ Recruitment focused on achieving strong representation across fleet sizes, opera
 ## Collaborators
 - **Amanda Stathopolous**, Department of Civil and Environmental Engineering
 - **Bret Johnson**, Transportation Center
-- **Janody Pougala**, Department of Civil and Environmental Engineering,
+- **Janody Pougala**, Department of Civil and Environmental Engineering
 - **Deirdre Edward**, Department of Engineering Science and Applied Mathematics
 
 """
@@ -56,10 +57,10 @@ with st.container():
 st.space()
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.image("mccormick_logo.png")
+    st.image("app/mccormick_logo.png")
 with col2: 
-    st.image("nutc_logo.png")
+    st.image("app/nutc_logo.png")
 with col3:
-    st.image("hei_logo.png")
+    st.image("app/HEI_logo.png")
 
 
