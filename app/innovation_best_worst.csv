@@ -1,0 +1,29 @@
+Category,Innovation,FM,OO,Other
+Best,ai,37.8,12.5,20
+Best,autonomous/self-driving,0,0,0
+Best,electric/ev/evs,18.9,12.5,16.7
+Best,fleet management systems/services,2.7,0,3.3
+Best,hybrid,8.1,0,20
+Best,hydrogen,0,0,0
+Best,improved GPS + route planning/optimization,13.5,6.2,3.3
+Best,infrastructure,0,0,6.7
+Best,mileage/fuel efficiency,2.7,43.8,0
+Best,predictive maintenance,2.7,0,3.3
+Best,real-time data/information,2.7,0,6.7
+Best,regulations,0,25,0
+Best,telematics,8.1,0,10
+Best,tracking,0,0,0
+Worst,ai,12.5,0,18.2
+Worst,autonomous/self-driving,8.3,25,13.6
+Worst,electric/ev/evs,37.5,58.3,36.4
+Worst,fleet management systems/services,8.3,0,0
+Worst,hybrid,4.2,0,9.1
+Worst,hydrogen,16.7,0,0
+Worst,improved GPS + route planning/optimization,0,0,0
+Worst,infrastructure,4.2,0,9.1
+Worst,mileage/fuel efficiency,4.2,8.3,0
+Worst,predictive maintenance,0,0,0
+Worst,real-time data/information,0,0,0
+Worst,regulations,0,8.3,4.5
+Worst,telematics,0,8.3,0
+Worst,tracking,4.2,0,4.5
