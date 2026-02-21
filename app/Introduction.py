@@ -30,7 +30,7 @@ The survey focuses on practical, day-to-day decision-making around fleet turnove
 Recruitment focused on achieving strong representation across fleet sizes, operating models, vehicle classes, and geographic regions. We partnered with industry associations, including NACFE, ITA, M-WTA, IAC, and OOIDA, to reach both carriers and independent owner-operators.
 
 ## Collaborators
-- **Amanda Stathopolous**, Department of Civil and Environmental Engineering
+- **Amanda Stathopoulos**, Department of Civil and Environmental Engineering
 - **Bret Johnson**, Transportation Center
 - **Janody Pougala**, Department of Civil and Environmental Engineering
 - **Deirdre Edward**, Department of Engineering Science and Applied Mathematics
