@@ -19,7 +19,7 @@ Fleet managers,none,None,
 Other,"The amount of time and maintenance done in house to keep the fleet moving, costs and overtime.",Maintenance,Cost
 Other,The overall treatment of the fleet. ,None,
 Fleet managers,none,None,
-Fleet managers,Unpredictable lifespans and repair costs of novel technology ,Maintenance,Emerging technologies
+Fleet managers,Unpredictable lifespans and repair costs of novel technology ,Maintenance,Technology
 Other,Our mechanics are locked out of repairs.,Maintenance,Organization
 Fleet managers,Vehicle operations,Operations,Cost
 Fleet managers,seviceability,Operations,
