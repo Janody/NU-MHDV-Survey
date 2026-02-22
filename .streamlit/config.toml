@@ -1,2 +1,8 @@
 [theme]
 base="light"
+backgroundColor="white"
+secondaryBackgroundColor="lavender"
+
+[theme.sidebar]
+backgroundColor="ghostWhite"
+secondaryBackgroundColor="lavender"
