@@ -45,7 +45,7 @@ st.space()
 
 with st.container():
     st.markdown("""<div style="
-                background: #f5f5f5;
+                background: #e3e5e8;
                 color: #444;
                 font-size: 12px;
                 line-height: 1.3;
