@@ -1,7 +1,7 @@
 [theme]
 base="light"
 backgroundColor="white"
-secondaryBackgroundColor="lavender"
+secondaryBackgroundColor="#e3e5e8"
 
 [theme.sidebar]
 backgroundColor="#e3e5e8"
