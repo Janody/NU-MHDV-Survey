@@ -35,6 +35,10 @@ Recruitment focused on achieving strong representation across fleet sizes, opera
 - **Janody Pougala**, Department of Civil and Environmental Engineering
 - **Deirdre Edward**, Department of Engineering Science and Applied Mathematics
 
+This survey is part of the research project: *"Roadmap for medium- and heavy-duty fleet renewal: a Chicago case-study on air quality and distributional impacts of fleet conversion with multi-stakeholder engagement"* funded by the Health Effects Institute and conducted in collaboration with: 
+- **Daniel E. Horton**, Northwestern University, Department of Earth, Environmental and Planetary Sciences
+- **Victoria Lang**, Department of Earth, Environmental and Planetary Sciences
+- **Anastasia Oehlerking**, Department of Earth, Environmental and Planetary Sciences
 """
 st.space()
 
