@@ -4,5 +4,5 @@ backgroundColor="white"
 secondaryBackgroundColor="lavender"
 
 [theme.sidebar]
-backgroundColor="ghostWhite"
+backgroundColor="#e3e5e8"
 secondaryBackgroundColor="lavender"
