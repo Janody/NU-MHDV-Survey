@@ -1,6 +1,6 @@
 [theme]
 base="light"
-backgroundColor="#e3e5e8"
+backgroundColor="white"
 secondaryBackgroundColor="lavender"
 
 [theme.sidebar]
