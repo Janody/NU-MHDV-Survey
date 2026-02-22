@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from data_processing import likert_data, scatter_comparison_data
 
 st.set_page_config(
-    page_title="Fleet turnover practices")
+    page_title="Northwestern MHDV Survey")
 
 data = pd.read_csv("app/data_full_app.csv")
 
