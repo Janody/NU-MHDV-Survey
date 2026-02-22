@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="Respondent profile, company and fleet overview")
+    page_title="Northwestern MHDV Survey")
 
 data = pd.read_csv("app/data_full_app.csv")
 
