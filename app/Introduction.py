@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="Fleet manager and Owner-Operators survey -- Results",
+    page_title="Northwestern Fleet manager and Owner-Operators survey",
 )
 
 st.logo("app/Northwestern_purple_RGB.png")
