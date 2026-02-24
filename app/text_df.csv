@@ -28,7 +28,7 @@ Fleet managers,I understand most of the process ,None,
 Other,"Useful life of vehicles, for personal use.",Maintenance,
 Fleet managers,The costs associated with running a fleet. It doesn’t make sense to keep repairing a 10 year old truck. The costs get to high.,Cost,Maintenance
 Fleet managers,Regulartory,Regulation,
-Fleet managers,"in general - rising costs of everything is ridiculous.  it makes us get for creative. we are only a $300 MM company.  Vastly different from WM, which was $5 billion. ",Cost,
+Fleet managers,"in general - rising costs of everything is ridiculous.  it makes us get for creative. ",Cost,
 Fleet managers,"Aspects of fleet turnover or renewal that are not well understood include the impact of emerging technologies, such as electric vehicles and autonomous driving, on fleet management . Additionally, the financial implications of fleet turnover or renewal, including depreciation and financing options, can be complex and difficult to navigate .",Technology,Organization
 Other,"One often misunderstood aspect of fleet renewal is the total cost of ownership (TCO) over time. Many decision-makers focus heavily on upfront capital costs while undervaluing long-term savings from lower maintenance, fuel efficiency, or incentives linked to newer or alternative-fuel vehicles, especially EVs.
 
@@ -105,7 +105,7 @@ Residual value (resale value) is rarely incorporated correctly.
 Older vehicles cost more in unplanned downtime, but that cost is rarely tracked.
 
 Fleets keep old vehicles “because they’re paid off,” even though they are more expensive to operate than new ones.",Cost,Maintenance
-Fleet managers,Most people do not like having a tarcker.,Organization,Regulation
+Fleet managers,Most people do not like having a tracker.,Organization,Regulation
 Owner-Operators,Regulation,Regulation,
 Fleet managers,The work it takes to keep over 100+ vehicles in perfect rotation with operations and compliance schedules without hindering day to day operations.,Operations,
 Fleet managers,Transition timing,Organization,
@@ -137,4 +137,5 @@ Owner-Operators,Financial,Cost,
 Owner-Operators,Lack of understanding the new technology,Technology,
 Owner-Operators,New late model junk junk junk,Technology,
 Owner-Operators,Operational ,Operations,
+
 Owner-Operators,Well maintained older trucks put more money in the bank,Maintenance,
